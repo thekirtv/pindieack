@@ -1,1 +1,1 @@
-# pindieack
+gigan.nomoredomainswork.ru
