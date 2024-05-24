@@ -1,7 +1,7 @@
 const allowedCors = [
     "https://pirdie.nomoredomainswork.ru",
-    "localhost:3001",
-    "localhost:3000",
+    "http://localhost:3001",
+    "http://localhost:3000",
   ]; 
 
 /*'https://practicum.yandex.ru',
